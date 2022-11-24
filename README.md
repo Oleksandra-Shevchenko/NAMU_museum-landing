@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Museum landing page
+
+ - [DEMO LINK](https://oleksandra-shevchenko.github.io/NAMU_museum-landing/)
+    
+ - [MOCKUP](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype)  
+
+- NAMU is a landing of National Art Museum Ukraine with adaptive and responsive design.
+- Technologies that were used: HTML, BEM, CSS, SCSS, Pixel Perfect, Figma, JavaScript.
+
